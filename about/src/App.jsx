@@ -9,12 +9,12 @@ const App = () => (
     <Header />
     <div class="text-center">
       <img
-        src="https://mdbcdn.b-cdn.net/img/new/avatars/8.webp"
+        src="https://www.gstatic.com/webp/gallery/4.sm.webp"
         class="rounded-full w-32 mb-4 mx-auto"
         alt="Avatar"
       />
-      <h5 class="text-xl font-medium leading-tight mb-2">John Doe</h5>
-      <p class="text-gray-500">Web designer</p>
+      <h5 class="text-xl font-medium leading-tight mb-2">Nhóm 18 - Micro-frontend</h5>
+      <p class="text-gray-500">Phương pháp mô hình hóa - Thầy Hoan</p>
     </div>
     <Footer />
   </div>
